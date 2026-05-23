@@ -4,6 +4,15 @@
 
 ![image](https://github.com/Msaroj-lab/Excel-Project-BlinkIt-Grocery-Dashboard/blob/0d2b6f0048a4f5d7b5f6b15515438707d277c3a3/Blinkit%20Dashboard.png)
 
+# 𝐶𝑜𝑛𝑡𝑒𝑥𝑡 & 𝑂𝑏𝑗𝑒𝑐𝑡𝑖𝑣𝑒: Blinkit 📝
+>𝐶𝑜𝑛𝑡𝑒𝑥𝑡:𝐵𝑙𝑖𝑛𝑘𝐼𝑡 𝐺𝑟𝑜𝑐𝑒𝑟𝑦 𝑜𝑝𝑒𝑟𝑎𝑡𝑒𝑠 𝑖𝑛 𝑎 ℎ𝑖𝑔ℎ𝑙𝑦 𝑐𝑜𝑚𝑝𝑒𝑡𝑖𝑡𝑖𝑣𝑒 𝑟𝑒𝑡𝑎𝑖𝑙 𝑙𝑎𝑛𝑑𝑠𝑐𝑎𝑝𝑒 𝑤𝑖𝑡ℎ 𝑑𝑖𝑣𝑒𝑟𝑠𝑒 𝑜𝑢𝑡𝑙𝑒𝑡𝑠 𝑣𝑎𝑟𝑦𝑖𝑛𝑔 𝑖𝑛 𝑠𝑖𝑧𝑒, 𝑙𝑜𝑐𝑎𝑡𝑖𝑜𝑛, 𝑎𝑛𝑑 𝑝𝑟𝑜𝑑𝑢𝑐𝑡 𝑎𝑠𝑠𝑜𝑟𝑡𝑚𝑒𝑛𝑡. 𝑇ℎ𝑒 𝑐𝑜𝑚𝑝𝑎𝑛𝑦 𝑜𝑓𝑓𝑒𝑟𝑠 𝑎 𝑤𝑖𝑑𝑒 𝑟𝑎𝑛𝑔𝑒 𝑜𝑓 𝑝𝑟𝑜𝑑𝑢𝑐𝑡𝑠 𝑎𝑐𝑟𝑜𝑠𝑠 𝑐𝑎𝑡𝑒𝑔𝑜𝑟𝑖𝑒𝑠 𝑠𝑢𝑐ℎ 𝑎𝑠 ℎ𝑒𝑎𝑙𝑡ℎ 𝑎𝑛𝑑 ℎ𝑦𝑔𝑖𝑒𝑛𝑒, 𝑏𝑎𝑘𝑒𝑟𝑦, 𝑏𝑒𝑣𝑒𝑟𝑎𝑔𝑒𝑠, 𝑓𝑟𝑜𝑧𝑒𝑛 𝑓𝑜𝑜𝑑𝑠, 𝑓𝑟𝑢𝑖𝑡𝑠 𝑎𝑛𝑑 𝑣𝑒𝑔𝑒𝑡𝑎𝑏𝑙𝑒𝑠, 𝑑𝑎𝑖𝑟𝑦, 𝑎𝑛𝑑 𝑚𝑜𝑟𝑒. 𝐷𝑒𝑠𝑝𝑖𝑡𝑒 𝑏𝑟𝑜𝑎𝑑 𝑝𝑟𝑜𝑑𝑢𝑐𝑡 𝑜𝑓𝑓𝑒𝑟𝑖𝑛𝑔𝑠, 𝑡ℎ𝑒 𝑐𝑜𝑚𝑝𝑎𝑛𝑦 𝑓𝑎𝑐𝑒𝑠 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠 𝑟𝑒𝑙𝑎𝑡𝑒𝑑 𝑡𝑜 𝑖𝑛𝑐𝑜𝑛𝑠𝑖𝑠𝑡𝑒𝑛𝑡 𝑠𝑎𝑙𝑒𝑠 𝑝𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒, 𝑙𝑜𝑤 𝑐𝑢𝑠𝑡𝑜𝑚𝑒𝑟 𝑟𝑎𝑡𝑖𝑛𝑔𝑠, 𝑎𝑛𝑑 𝑝𝑟𝑜𝑓𝑖𝑡𝑎𝑏𝑖𝑙𝑖𝑡𝑦 𝑖𝑠𝑠𝑢𝑒𝑠 𝑖𝑛 𝑐𝑒𝑟𝑡𝑎𝑖𝑛 𝑠𝑒𝑔𝑚𝑒𝑛𝑡𝑠 𝑎𝑛𝑑 𝑜𝑢𝑡𝑙𝑒𝑡𝑠. 𝑇ℎ𝑒 𝑒𝑣𝑜𝑙𝑣𝑖𝑛𝑔 𝑚𝑎𝑟𝑘𝑒𝑡 𝑑𝑦𝑛𝑎𝑚𝑖𝑐𝑠 𝑎𝑛𝑑 𝑐𝑜𝑛𝑠𝑢𝑚𝑒𝑟 𝑝𝑟𝑒𝑓𝑒𝑟𝑒𝑛𝑐𝑒𝑠 𝑛𝑒𝑐𝑒𝑠𝑠𝑖𝑡𝑎𝑡𝑒 𝑎 𝑑𝑎𝑡𝑎-𝑑𝑟𝑖𝑣𝑒𝑛 𝑎𝑝𝑝𝑟𝑜𝑎𝑐ℎ 𝑡𝑜 𝑜𝑝𝑡𝑖𝑚𝑖𝑧𝑒 𝑝𝑟𝑜𝑑𝑢𝑐𝑡 𝑝𝑙𝑎𝑐𝑒𝑚𝑒𝑛𝑡, 𝑒𝑛ℎ𝑎𝑛𝑐𝑒 𝑐𝑢𝑠𝑡𝑜𝑚𝑒𝑟 𝑠𝑎𝑡𝑖𝑠𝑓𝑎𝑐𝑡𝑖𝑜𝑛, 𝑎𝑛𝑑 𝑖𝑚𝑝𝑟𝑜𝑣𝑒 𝑓𝑖𝑛𝑎𝑛𝑐𝑖𝑎𝑙 𝑜𝑢𝑡𝑐𝑜𝑚𝑒𝑠.
+
+>Objectives:  
+
+⚫ Analyze sales and profitability trends across product categories, outlets, and time periods to identify underperforming segments.  
+⚫ Assess the impact of product visibility and customer ratings on sales performance to prioritize strategic merchandising.  
+⚫ Identify categories and outlets with high potential for growth and profitability improvements.
+
 # 𝐾𝑒𝑦 𝐵𝑢𝑠𝑖𝑛𝑒𝑠𝑠 𝐼𝑛𝑠𝑖𝑔ℎ𝑡𝑠 📧
 **𝐶𝑎𝑡𝑒𝑔𝑜𝑟𝑦 𝑃𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒 𝑉𝑎𝑟𝑖𝑎𝑏𝑖𝑙𝑖𝑡𝑦:** 
 
